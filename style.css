@@ -1,0 +1,14 @@
+.personalinfo{
+    display: flex;
+    flex-direction:row;
+    justify-content:space-around;
+
+}
+.div1{
+    background-color: rgb(245, 245, 245);
+    width: 400px;
+    height: 500px;
+    box-shadow: 2px 2px 3px 3px black;
+    margin: 10px;
+}
+
